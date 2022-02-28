@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Hello! It's calc app.");
+        System.out.println("Hello!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n It's calc app.");
         System.out.print("Type first num: ");
         double a = scanner.nextDouble();
         System.out.print("Type second num: ");

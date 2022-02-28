@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Hello! It's calculator console application.");
-        System.out.print("Type a: ");
+        System.out.println("Hello! It's calc app.");
+        System.out.print("Type first num: ");
         double a = scanner.nextDouble();
-        System.out.print("Type b: ");
+        System.out.print("Type second num: ");
         double b = scanner.nextDouble();
         System.out.print("Type command(1 - sum, 2 - diff, 3 - mult): ");
         int choice = scanner.nextInt();

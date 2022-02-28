@@ -1,3 +1,3 @@
 # Calculator app
 
-functions: add, diff, mult
+Calculator has these functions: add, diff, mult
